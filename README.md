@@ -1,8 +1,9 @@
+
 # Roshini Kumari P: Portfolio
 
 A multi-page personal portfolio built with plain HTML, CSS and JavaScript (no frameworks).
 
-**Live site:** https://roshinikumari015018.github.io/portfolio/
+**Live site:** https://roshinikumari015018.github.io/my-portfolio/
 
 ## Pages
 | Page | What it has |
@@ -38,3 +39,7 @@ Push to GitHub, then go to **Settings → Pages**, choose branch `main` and fold
 
 ## Tech
 HTML5 · CSS3 · JavaScript (ES6)
+
+# my-portfolio
+My personal portfolio website built with HTML, CSS and JavaScript
+
